@@ -85,3 +85,7 @@
 ! [40보스] (https://user-images.githubusercontent.com/91187660/233033789-db6f36d3-a3a4-4792-8c85-b8f927222311.png)
 ! [45보스] (https://user-images.githubusercontent.com/91187660/233033796-69cbd35f-3e64-4b15-8024-25a052300ed9.png)
 ! [50보스] (https://user-images.githubusercontent.com/91187660/233033803-a4c18c47-1db4-47af-afa9-5c3a29f741d4.png)
+![233033778-e0d04c01-053c-41b9-83b9-ca0ca36668f4](https://github.com/soo710/mangu/assets/91187660/7d9ad94e-80bd-4209-999a-1039c0d9d515)
+![233033789-db6f36d3-a3a4-4792-8c85-b8f927222311](https://github.com/soo710/mangu/assets/91187660/79199528-47fa-4e0b-ad59-2f268cfc91b1)
+![233033796-69cbd35f-3e64-4b15-8024-25a052300ed9](https://github.com/soo710/mangu/assets/91187660/b9b7655b-1d5a-47c2-ba0d-4c1d6f0e9658)
+![233033803-a4c18c47-1db4-47af-afa9-5c3a29f741d4](https://github.com/soo710/mangu/assets/91187660/ced30871-b6fb-4439-be75-3357a5c85f1d)
