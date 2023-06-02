@@ -1,3 +1,7 @@
+## [ **확인해주세요** ] \*\*
+
+### [파티 편성(링크)](https://docs.google.com/spreadsheets/d/1q2jYUi-EYxRFrA03GoH54nG8XrRFWP1A4w-LM1q1DuE/edit#gid=0)
+
 ## [ **참여해주세요** ]
 
 ### [디스코드(링크)](https://discord.gg/sDPUG8aNbD)
