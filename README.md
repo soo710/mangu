@@ -1,4 +1,3 @@
-<img width="444" alt="KakaoTalk_20230604_163903766" src="https://github.com/soo710/mangu/assets/91187660/b1730ded-3248-4e2b-b7e2-d9a2373be10d">
 ## [ **확인해주세요** ] \*\*
 
 ### [결사원 목록(링크)](https://docs.google.com/spreadsheets/d/1q2jYUi-EYxRFrA03GoH54nG8XrRFWP1A4w-LM1q1DuE/edit#gid=0)
@@ -96,7 +95,7 @@
 - 7단계 샘못마을(45~48)
 
 ## [파벌퀘스트]
-![233033803-a4c18c47-1db4-47af-afa9-5c3a29f741d4](https://github.com/soo710/mangu/assets/91187660/c802e60c-bec1-403e-a140-40fc54a7dff3)
+<img width="444" alt="KakaoTalk_20230604_163903766" src="https://github.com/soo710/mangu/assets/91187660/b1730ded-3248-4e2b-b7e2-d9a2373be10d">
 
 ## [심연석지도]
 ![233033778-e0d04c01-053c-41b9-83b9-ca0ca36668f4](https://github.com/soo710/mangu/assets/91187660/067c6159-15ee-4b7d-8c1a-ad8947bdb4be)
@@ -104,3 +103,4 @@
 ## [보스 젠자리]
 ![233033789-db6f36d3-a3a4-4792-8c85-b8f927222311](https://github.com/soo710/mangu/assets/91187660/ddefada6-0112-4640-a296-f53708004c80)
 ![233033796-69cbd35f-3e64-4b15-8024-25a052300ed9](https://github.com/soo710/mangu/assets/91187660/96e06d5d-e7c1-4a92-85f4-952ed9f65079)
+![233033803-a4c18c47-1db4-47af-afa9-5c3a29f741d4](https://github.com/soo710/mangu/assets/91187660/c802e60c-bec1-403e-a140-40fc54a7dff3)
